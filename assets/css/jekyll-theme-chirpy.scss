@@ -14,6 +14,34 @@
 
 /* append your custom style below */
 
+/* ---- Darker theme with higher contrast ---- */
+html {
+  --main-bg: #0b0e14;
+  --sidebar-bg: #0e1219;
+  --sidebar-border-color: #232a35;
+  --card-bg: #141a23;
+  --card-header-bg: #1a2230;
+  --main-border-color: #2c3542;
+  --topbar-bg: rgb(11 14 20 / 80%);
+  --text-color: #d7dee8;
+  --post-list-text-color: #d7dee8;
+  --heading-color: #f2f6fc;
+  --text-muted-color: #a6b0bd;
+  --text-muted-highlight-color: #c9d1dc;
+  --site-title-color: #eef2f8;
+  --site-subtitle-color: #b4bfcc;
+  --sidebar-muted-color: #b4bfcc;
+  --sidebar-active-color: #ffffff;
+  --link-color: #8ab4f8;
+  --link-underline-color: #5b7db1;
+  --btn-share-color: #a6b0bd;
+  --menu-bg: #141a23;
+  --button-bg: #141a23;
+  --btn-border-color: #2c3542;
+  --search-border-color: #2c3542;
+  --search-icon-color: #a6b0bd;
+}
+
 /* ---- Home intro card ---- */
 .intro-card {
   max-width: 900px;
