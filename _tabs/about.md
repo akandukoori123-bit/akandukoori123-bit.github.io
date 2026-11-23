@@ -9,9 +9,10 @@ magnet program at Poolesville High School.
 
 With the Algoverse AI Research Program, I co-authored **PathoReason**, a study
 testing whether pathology vision-language models' cited evidence actually drives
-their diagnoses. The paper is submitted to two AAAI-27 workshops: the 5th
-Workshop on Deployable AI (DAI 2027) and the Medical World Models Workshop
-(MedWM 2027). In the program I also designed an agentic evaluation protocol for
+their diagnoses. The paper is submitted to three AAAI-27 workshops: the 5th
+Deployable AI Workshop (DAI 2027), the First Workshop on Medical World Models
+(MedWM 2027), and the 11th International Workshop on Health Intelligence
+(W3PHIAI-27). In the program I also designed an agentic evaluation protocol for
 testing whether clinical LLM agents retrieve missing patient information before
 recommending medications.
 
